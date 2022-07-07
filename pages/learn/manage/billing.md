@@ -76,6 +76,6 @@ To understand the difference between Inactive and Offline, we define them the fo
 - Inactive: The device has been deactivated, or has been preregistered but has not yet connected to the balenaCloud API.
 - Offline: The device is not connected to cloudlink and has not had any recent API communications.
 
-If you have a device offline _and_ active you **will still be billed for that device.** Those devices are usually still deployed in the field and ready to be used at any time. If you make the decision to have your devices offline intentionally, you will still see them in your fleet and will have full visibility to remotely monitor the devices or to update them, actions that will take effect as soon as they become online.
+If you have a device offline _and_ active you **will still be billed for that device.** Those devices are usually still deployed in the field and ready to be used at any time. If you make the decision to have your devices offline intentionally, you will still see them in your fleet and and can take some actions, such as applying updates, that will take effect as soon as they come online.
 
 Once you deactivate a device, you will not be able to monitor nor to apply updates to it, and you won't be charged after the de-activation fee until they become online again.
