@@ -78,4 +78,4 @@ To understand the difference between Inactive and Offline, we define them the fo
 
 If you have a device offline _and_ active you **will still be billed for that device.** Those devices are usually still deployed in the field and ready to be used at any time. If you make the decision to have your devices offline intentionally, you will still see them in your fleet and and can take some actions, such as applying updates, that will take effect as soon as they come online.
 
-Once you deactivate a device, you will not be able to monitor nor to apply updates to it, and you won't be charged after the de-activation fee until they become online again.
+Once you deactivate a device, you will not be able to monitor nor apply updates to it, and after the de-activation fee you won't be charged again until they come online.
